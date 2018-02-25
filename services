@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en" class="en no-js">
+
+    <head>
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-27311564-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments)};
+    gtag('js', new Date());
+
+    gtag('config', 'UA-27311564-1');
+  </script>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Services &#124; Depth Interactive</title>
+    <meta name="description" content="We build fast, secure solutions that are platform specific. If it’s as complex as a web CRM with native support, or as simple as a docs tracker, we can build it">
+
+  <link rel="icon" type="image/png" href="storage/app/media/logos/logo_favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100" rel="stylesheet">
+  <script src="https://use.typekit.net/xyu0hba.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+  <link href="combine/166d080539c81262b83b848b65598f9f-1507054214" rel="stylesheet">
+
+
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+  <!-- Twitter Card data -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:domain" value="https://www.depthinteractive.com">
+  <meta name="twitter:url" value="https://www.depthinteractive.com/services">
+  <meta name="twitter:site" content="@DepthSLC">
+      <meta name="twitter:title" content="Services &#124; Utah Custom Mobile & Web Development">
+    <meta name="twitter:description" content="We build fast, secure solutions that are platform specific. If it’s as complex as a web CRM with native support, or as simple as a docs tracker, we can build it">
+      <meta name="twitter:image:src" content="https://www.depthinteractive.com/storage/app/media/socialcard_basic.jpg">
+
+  <!-- Open Graph data -->
+  <meta property="og:url" content="https://www.depthinteractive.com/services">
+      <meta property="og:title" content="Services &#124; Utah Custom Mobile & Web Development">
+    <meta property="og:description" content="We build fast, secure solutions that are platform specific. If it’s as complex as a web CRM with native support, or as simple as a docs tracker, we can build it">
+  <meta property="og:site_name" content="Depth Interactive">
+      <meta name="og:image" content="https://www.depthinteractive.com/storage/app/media/socialcard_basic.jpg">
+  </head>
+    <body class="default-body">
+        <!-- Header -->
+        <header class="header-main">
+            <div>
+  <nav class="navbar-fixed-top top-nav" role="navigation">
+  <div class="container">
+    <div class="logo-container">
+      <div class="logo-div">
+          <a href="index.html"><img class="logo" src="storage/app/media/nav/logo.png" data-rjs="2"></a>
+      </div>
+      <div class="pull-right menu">
+        <span class="contact-wrapper">
+          <a class="contact" href="contact">Contact Us</a>
+        </span>
+        <button class="hamburger hamburger--spin" type="button">
+          <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</nav>
+<div class="menu-overlay">
+  <nav>
+    <ul>
+      <li><a href="about">About</a></li>
+      <li><a href="services">Services</a></li>
+      <li><a href="work.html">Work</a></li>
+      <li><a href="careers.html">Careers</a></li>
+      <li><a href="contact">Contact</a></li>
+      <li><a href="https://thoughts.depthinteractive.com" target="_blank">Thoughts</a></li>
+    </ul>
+  </nav>
+</div></div>        </header>
+
+        <!-- Content -->
+        <section class="content-main">
+            <section class="services">
+  <div class="container">
+    <div class="page-heading">
+      <div class="page">
+        <span>services</span>
+      </div>
+      <div class="heading">
+        <h2>Let our expertise help bring<br class="hidden-xs"> your ideas to life</h2>
+      </div>
+    </div>
+  </div>
+  <section class="main-body">
+    <div class="inter"><img src="storage/app/media/text_lg_top.png"></div>
+    <div class="container">
+      <div class="number-blocks">
+        <div class="number-block">
+          <div class="info-block">
+            <div class="num"><img src="storage/app/media/circles/circle_01.png"></div>
+            <div class="info">
+              <h4>UI + UX Design</h4>
+              <div class="block-subtext">
+                <div class="subtext">
+                  <h6>
+                    A great application starts with great strategy and design. We focus on every stage of the process and keep in constant contact with the client to ensure the project is moving towards your vision.
+                  </h6>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="number-block">
+          <div class="info-block">
+            <div class="num"><img src="storage/app/media/circles/circle_02.png"></div>
+            <div class="info">
+              <h4>Web Design</h4>
+              <div class="block-subtext">
+                <div class="subtext">
+                  <h6>
+                    Along with UI + UX, we create web experiences that engage customers with each click. Our design capabilities expand beyond photoshop to maximize your budget and achieve your goals.
+                  </h6>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="number-block">
+          <div class="info-block">
+            <div class="num"><img src="storage/app/media/circles/circle_03.png"></div>
+            <div class="info">
+              <h4>Web Development</h4>
+              <div class="block-subtext">
+                <div class="subtext">
+                  <h6>
+                    We believe a website is only as good as the code it’s built upon. We always make sure our web development meets the highest of standards and is best-suited
+                    for your target project needs.
+                  </h6>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="number-block">
+          <div class="info-block">
+            <div class="num"><img src="storage/app/media/circles/circle_04.png"></div>
+            <div class="info">
+              <h4>Web + Mobile Apps</h4>
+              <div class="block-subtext">
+                <div class="subtext">
+                  <h6>
+                    We build fast, secure solutions that are 100% platform specific. Whether it’s as complex as a do-it-all web CRM with native iOS and Android support, or as simple as an in-house document tracker, we can build it.
+                  </h6>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="number-block">
+          <div class="info-block">
+            <div class="num"><img src="storage/app/media/circles/circle_05.png"></div>
+            <div class="info">
+              <h4>Custom Software</h4>
+              <div class="block-subtext">
+                <div class="subtext">
+                  <h6>
+                    Custom software is desktop apps, server utilities, web applications and mobile applications. Whatever platform you are needing, we can build you your own custom digital solution.
+                  </h6>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="number-block">
+          <div class="info-block">
+            <div class="num"><img src="storage/app/media/circles/circle_06.png"></div>
+            <div class="info">
+              <h4>Cloud Consulting</h4>
+              <div class="block-subtext">
+                <div class="subtext">
+                  <h6>
+                    We offer our clients access to the world of cloud computing. When we talk about the cloud, we are talking about a scalable, dynamic infrastructure that will meet the needs of our ever-changing world.
+                  </h6>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="active"><img src="storage/app/media/text_lg_bottom.png"></div>
+  </section>
+  <section class="logos-section">
+    <div class="container">
+  <div class="client-logo">
+    <div class="logo-image">
+      <img src="storage/app/media/clients/gopro.png">
+    </div>
+  </div>
+  <div class="client-logo">
+    <div class="logo-image">
+      <img src="storage/app/media/clients/byutv.png">
+    </div>
+  </div>
+  <div class="hidden-xs client-logo">
+    <div class="logo-image">
+      <img src="storage/app/media/clients/mastery.png">
+    </div>
+  </div>
+  <div class="hidden-xs hidden-sm client-logo">
+    <div class="logo-image">
+      <img src="storage/app/media/clients/ksl.png">
+    </div>
+  </div>
+  <div class="hidden-xs hidden-sm client-logo">
+    <div class="logo-image">
+      <img src="storage/app/media/clients/dnews.png">
+    </div>
+  </div>
+  <div class="client-logo">
+    <div class="logo-image">
+      <img src="storage/app/media/clients/descente.png">
+    </div>
+  </div>
+  <div class="hidden-xs client-logo">
+    <div class="logo-image">
+      <img src="storage/app/media/clients/ciena.png">
+    </div>
+  </div>
+  <div class="client-logo">
+    <div class="logo-image">
+      <img src="storage/app/media/clients/packsize.png">
+    </div>
+  </div>
+  <div class="hidden-xs hidden-sm client-logo">
+    <div class="logo-image">
+      <img src="storage/app/media/clients/thresh.png">
+    </div>
+  </div>
+  <div class="hidden-xs hidden-sm client-logo">
+    <div class="logo-image">
+      <img src="storage/app/media/clients/byuradio.png">
+    </div>
+  </div>
+</div>  </section>
+  <section class="top-footer">
+    <div class="container">
+      <div class="info-block full-width">
+        <div class="info">
+          <h2>We believe in building great software</h2>
+          <div class="block-subtext">
+            <h6>Every project starts out as an idea and working with clients to bring these ideas<br class="hidden-xs"> to life has been a mission we strive to deliver on every day.</h6>
+          </div>
+          <div class="gold-link">
+            <a href="work.html">Our Work</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</section>        </section>
+
+        <!-- Footer -->
+        <footer class="footer-main">
+            <div>
+  <div class="container">
+    <div class="estd-row">
+      <div class="estd-wrapper">
+        <div class="dark">
+          <div class="estd">
+            <span>ESTD</span> <img src="storage/app/media/logos/logo_round.png" data-rjs="2"> <span>2008</span>          </div>
+        </div>
+      </div>
+    </div>
+    <div class="join">
+      <a href="contact"><div class="btn">Start A Project</div></a>
+    </div>
+    <div class="links">
+      <div class="links-text">
+        <h5>contact</h5>
+        <div>
+          <ul>
+            <li>324 South 400 West Suite #100</li>
+            <li>Salt Lake City, UT 84101</li>
+            <li>801.657.5684</li>
+            <li><i>info@depthinteractive.com</i></li>
+          </ul>
+        </div>
+      </div>
+      <div class="links-text">
+        <h5>depth</h5>
+        <div>
+          <ul>
+            <li><a href="about">About</a></li>
+            <li><a href="work.html">Work</a></li>
+            <li><a href="services">Services</a></li>
+            <li><a href="careers.html">Careers</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="links-text">
+        <h5>social</h5>
+        <div>
+          <ul>
+            <li><a href="https://www.facebook.com/DepthInteractive/" target="_blank">Facebook</a></li>
+            <li><a href="https://twitter.com/DepthSLC" target="_blank">Twitter</a></li>
+            <li><a href="https://www.instagram.com/depthinteractive/" target="_blank">Instagram</a></li>
+            <li><a href="https://www.linkedin.com/company/depth-interactive-inc" target="_blank">LinkedIn</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="links-text">
+        <h5>start your project</h5>
+        <div>
+          <ul>
+            <li>Every project starts with an idea -</li>
+            <li>let us help bring yours to life.</li>
+            <li>&nbsp;</li>
+            <li><i><a href="contact">Contact Us</a></i></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>        </footer>
+
+        <!-- Google Maps for /contact -->
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBqMJ3kPKHr2M81wPJG9bOF2e_ay-U1ZmE&v=3.exp"></script>
+
+        <script src="combine/65795d226e0dc81a1b71bf70f4bf071c-1502394320">
+</script>
+
+    </body>
+</html>

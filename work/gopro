@@ -1,0 +1,289 @@
+
+
+
+
+
+
+
+
+<html lang="en" class="en no-js">
+
+<head>
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-27311564-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments)};
+    gtag('js', new Date());
+
+    gtag('config', 'UA-27311564-1');
+  </script>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>GoPro &#124; Depth Interactive</title>
+    <meta name="description" content="GoPro products are sold all over the world, and GoPro needed an application that would help train sales associates about everything their products can do.">
+
+  <link rel="icon" type="image/png" href="../storage/app/media/logos/logo_favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100" rel="stylesheet">
+  <script src="https://use.typekit.net/xyu0hba.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+  <link href="../combine/166d080539c81262b83b848b65598f9f-1507054214" rel="stylesheet">
+
+
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+  <!-- Twitter Card data -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:domain" value="https://www.depthinteractive.com">
+  <meta name="twitter:url" value="https://www.depthinteractive.com/work/gopro">
+  <meta name="twitter:site" content="@DepthSLC">
+      <meta name="twitter:title" content="GoPro &#124; Utah Custom Mobile & Web Development">
+    <meta name="twitter:description" content="GoPro products are sold all over the world, and GoPro needed an application that would help train sales associates about everything their products can do.">
+      <meta name="twitter:image:src" content="https://www.depthinteractive.com/storage/app/media/socialcard_basic.jpg">
+
+  <!-- Open Graph data -->
+  <meta property="og:url" content="https://www.depthinteractive.com/work/gopro">
+      <meta property="og:title" content="GoPro &#124; Utah Custom Mobile & Web Development">
+    <meta property="og:description" content="GoPro products are sold all over the world, and GoPro needed an application that would help train sales associates about everything their products can do.">
+  <meta property="og:site_name" content="Depth Interactive">
+      <meta name="og:image" content="https://www.depthinteractive.com/storage/app/media/socialcard_basic.jpg">
+  </head>
+<body class="default-body">
+
+  <!-- Header -->
+  <header class="header-main">
+    <div>
+  <nav class="navbar-fixed-top top-nav" role="navigation">
+  <div class="container">
+    <div class="logo-container">
+      <div class="logo-div">
+          <a href="../index.html"><img class="logo" src="../storage/app/media/nav/logo.png" data-rjs="2"></a>
+      </div>
+      <div class="pull-right menu">
+        <span class="contact-wrapper">
+          <a class="contact" href="../work.html">All Projects</a>
+        </span>
+        <button class="hamburger hamburger--spin" type="button">
+          <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</nav>
+<div class="menu-overlay">
+  <nav>
+    <ul>
+      <li><a href="../about">About</a></li>
+      <li><a href="../services">Services</a></li>
+      <li><a href="../work.html">Work</a></li>
+      <li><a href="../careers.html">Careers</a></li>
+      <li><a href="../contact">Contact</a></li>
+      <li><a href="https://thoughts.depthinteractive.com" target="_blank">Thoughts</a></li>
+    </ul>
+  </nav>
+</div></div>  </header>
+
+  <!-- Content -->
+  <section class="content-main">
+    <section class="project-wrapper">
+      <section class="project-header" style="background: url(../storage/app/media/gopro_header.jpg) no-repeat center;" data-rjs="2">
+        <div class="header-text text-block">
+          <div class="main">
+            <h1>GoPro Training Applications</h1>
+          </div>
+          <div class="subtext">
+            <i>UX + UI Design, Web, iOS &amp; Android Development</i>
+          </div>
+        </div>
+      </section>
+      <section class="project-cluster">
+        <div class="gray-opening">
+          <div class="logo-wrapper">
+            <img src="../storage/app/media/logos/logo_round.png" alt="" data-rjs="2">
+          </div>
+          <div class="text">
+            <h2>GoPro products are sold and loved all over the world, and GoPro needed an application that would assist in training sales associates about everything these amazing products can do.</h2>
+          </div>
+        </div>
+        <div class="cluster-wrapper">
+          <img src="../storage/app/media/gopro_cluster.png" alt="" data-rjs="2">
+        </div>
+      </section>
+                    <section class="project-second">
+                      <div class="inter"><img src="../storage/app/media/text_lg_top.png" data-rjs="2"></div>
+                    <div class="container">
+            <div class="text-wrapper">
+              <div class="text">
+                <div>
+                  <h1>Design Evolution</h1>
+                </div>
+                <div class="gold-border"></div>
+                <div class="paragraph">
+                  <p>
+                    Depth created a design that put the focus where it should be--the amazing GoPro products--and everyone who opens the app is taken on a journey through everything GoPro can do. Initially, we worked with GoPro to polish an existing training app that was outdated, and then we went to work on a totally new design that would better capture the excitement and capabilities of GoPro cameras and accessories.                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="screenshot right">
+              <div class="image-wrapper">
+                <img src="../storage/app/media/gopro_1.png" alt="" data-rjs="2">
+              </div>
+            </div>
+          </div>
+                      <div class="active"><img src="../storage/app/media/text_lg_bottom.png" data-rjs="2"></div>
+                  </section>
+                    <section class="project-third">
+          <div class="container">
+            <div class="native">
+              <div class="text-wrapper">
+                <div class="text">
+                  <div>
+                    <h1>Product Training</h1>
+                  </div>
+                  <div class="gold-border"></div>
+                  <div class="paragraph">
+                    <p>
+                      To keep the user engaged and coming back to the app, Depth designed a series of training games that both educate and entertain. Adding a level of gamification increased user retention and engagement which in the end produced the value GoPro was looking for--a better educated and interested sales team.                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="screenshot left">
+                <div class="image-wrapper">
+                  <img src="../storage/app/media/gopro_2.png" alt="" data-rjs="2">
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+                    <section class="project-fourth">
+          <div class="container">
+            <div class="text-wrapper">
+              <div class="text">
+                <div>
+                  <h1>Complete Control</h1>
+                </div>
+                <div class="gold-border"></div>
+                <div class="paragraph">
+                  <p>
+                    In addition to the native iOS and Android apps, Depth created a custom web CMS that enabled the GoPro admin team to manage all the content in the app, notify users about new content, and translate app content into 12 different languages. All this content is packaged into releases that are automatically downloaded to the devices so every bit of information continues to be accessible to users when they are offline.                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="screenshot right">
+              <div class="image-wrapper">
+                <img src="../storage/app/media/gopro_3.png" alt="" data-rjs="2">
+              </div>
+            </div>
+          </div>
+        </section>
+            <section class="gray-closing">
+        <div class="text">
+          <h2>These GoPro Training apps are used by over 100,000 people every month in over 120 countries.</h2>
+        </div>
+      </section>
+      <section class="project-links">
+          <div class="project-link hover">
+    <div class="photo-block">
+      <div class="image-block">
+        <a href="court-intelligence"><img src="../storage/app/media/next/next_court.jpg" data-rjs="2"></a>
+      </div>
+      <div class="project-text">
+        <h2><a href="court-intelligence">Court Intelligence</a></h2>
+        <div class="subtext"><i>Web &amp; Mobile Apps</i></div>
+      </div>
+    </div>
+  </div>
+  <div class="project-link hover">
+    <div class="photo-block">
+      <div class="image-block">
+        <a href="deseret-news"><img src="../storage/app/media/next/next_dnews.jpg" data-rjs="2"></a>
+      </div>
+      <div class="project-text">
+        <h2><a href="deseret-news">Deseret News</a></h2>
+        <div class="subtext"><i>iOS &amp; Android Apps</i></div>
+      </div>
+    </div>
+  </div>
+      </section>
+    </section>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer-main">
+    <div>
+  <div class="container">
+    <div class="estd-row">
+      <div class="estd-wrapper">
+        <div class="dark">
+          <div class="estd">
+            <span>ESTD</span> <img src="../storage/app/media/logos/logo_round.png" data-rjs="2"> <span>2008</span>          </div>
+        </div>
+      </div>
+    </div>
+    <div class="join">
+      <a href="../contact"><div class="btn">Start A Project</div></a>
+    </div>
+    <div class="links">
+      <div class="links-text">
+        <h5>contact</h5>
+        <div>
+          <ul>
+            <li>324 South 400 West Suite #100</li>
+            <li>Salt Lake City, UT 84101</li>
+            <li>801.657.5684</li>
+            <li><i>info@depthinteractive.com</i></li>
+          </ul>
+        </div>
+      </div>
+      <div class="links-text">
+        <h5>depth</h5>
+        <div>
+          <ul>
+            <li><a href="../about">About</a></li>
+            <li><a href="../work.html">Work</a></li>
+            <li><a href="../services">Services</a></li>
+            <li><a href="../careers.html">Careers</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="links-text">
+        <h5>social</h5>
+        <div>
+          <ul>
+            <li><a href="https://www.facebook.com/DepthInteractive/" target="_blank">Facebook</a></li>
+            <li><a href="https://twitter.com/DepthSLC" target="_blank">Twitter</a></li>
+            <li><a href="https://www.instagram.com/depthinteractive/" target="_blank">Instagram</a></li>
+            <li><a href="https://www.linkedin.com/company/depth-interactive-inc" target="_blank">LinkedIn</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="links-text">
+        <h5>start your project</h5>
+        <div>
+          <ul>
+            <li>Every project starts with an idea -</li>
+            <li>let us help bring yours to life.</li>
+            <li>&nbsp;</li>
+            <li><i><a href="../contact">Contact Us</a></i></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>  </footer>
+
+  <script src="../combine/65795d226e0dc81a1b71bf70f4bf071c-1502394320">
+</script>
+<script src="../themes/depth2017/assets/javascript/project.js"></script>
+
+</body>
+</html>
